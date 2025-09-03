@@ -3,7 +3,8 @@
 image::src/jvmMain/resources/images/icon.png[,256]
 
 A multi-store DLC unlocker.
-Currently, in development.
+
+IMPORTANT: *In 2023 Steam added detection of SmokeAPI in its process. Therefore, it became dangerous for any Steam account to install this tool. Since them, development of this tool has been halted and no updated will be made to it.* 
 
 *https://cs.rin.ru/forum/viewtopic.php?p=2758149#p2758149[Announcement post]*
 
